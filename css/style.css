@@ -1,0 +1,37 @@
+* {
+    background-color: rgb(118, 118, 118);
+}
+
+header, h3{
+    color: magenta;
+    text-align: center;
+}
+
+header p {
+    color:white;
+    text-align: center;
+
+}
+
+.card-header, .card-body {
+    color: magenta;
+
+}
+
+.card-column {
+    display: flex;
+    flex-direction: grid;
+    margin: 20px;
+
+}
+
+pre {
+    color: white;
+}
+
+.card-header {
+    border: solid 2px white;
+    justify-content: center;
+
+}
+
